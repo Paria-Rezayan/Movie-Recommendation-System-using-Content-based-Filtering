@@ -1,1 +1,2 @@
 # Movie-Recommendation-System-using-Content-based-Filtering
+This is a project to build a movie recommendation system using content-based filtering. The dataset used for this project has been taken from https://www.kaggle.com/datasets/thedevastator/imdb-movie-data-from-2006-2016, which consists of 1000 movies and their respective features such as title, genre, description, director, actors, year, runtime, rating, votes, revenue, and metascore.
